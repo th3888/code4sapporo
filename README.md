@@ -1,1 +1,3 @@
-# code4sapporo
+# 札幌市オープンデータを使ったアウトプットのレポジトリ
+
+札幌市が公開しているオープンデータプラットフォーム・[DATA-SMART CITY SAPPRO](https://data.pf-sapporo.jp/)で利用できるデータを使ったアウトプットを公開しています。
